@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "deep-diff": "^0.3.8",
-    "js-yaml": "^3.8.4",
+    "js-yaml": "^3.13.1",
     "json2csv": "^3.7.3",
     "lodash.isobject": "^3.0.2",
     "mz": "^2.6.0",
